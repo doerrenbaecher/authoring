@@ -15,7 +15,7 @@ My favorite Restaurants are:
 
 https://help.github.com/en
 
-!https://github.com/doerrenbaecher/authoring/blob/main/images/logo.png
+![Logo](https://github.com/doerrenbaecher/authoring/blob/main/images/logo.png)
 
 😁
 
