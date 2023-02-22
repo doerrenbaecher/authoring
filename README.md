@@ -28,11 +28,3 @@ My favorite Restaurants are:
 | ----- | ----- |
 | Row 1 | Row 1 |
 | Row 2 | Row 2 |
-
-[Publishing](#publishing)
-[Github Flavoured Markdown](#github)
-[Checkboxes](#checkboxes)
-[Documentation](#documentation)
-[Images](#images)
-[Emoji](#emoji)
-[Tables](#tables)
