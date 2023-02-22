@@ -14,3 +14,12 @@ My favorite Restaurants are:
 - [ ] Tables
 
 https://help.github.com/en
+
+![Hier könnte ihr Logo stehen] (https://github.com/doerrenbaecher/authoring/blob/main/images/logo.png) "Hier könnte ihr Logo stehen"
+
+😁
+
+| Names | Class |
+| ----- | ----- |
+| Row 1 | Row 1 |
+| Row 2 | Row 2 |
