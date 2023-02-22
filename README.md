@@ -8,10 +8,10 @@ My favorite Restaurants are:
 - Il Tartuffo
 ## Github Flavoured Markdown <a name="github"></a>
 ## Checkboxes <a name="checkboxes"></a>
-- [x] External link"
+- [x] External link
 - [x] Internal Link
 - [x] Images
-- [x] Emojis
+- [x] Emojis[Emoji](#emoji)
 - [x] Tables
 
 ## Github Documentation <a name="documentation"></a>
