@@ -15,7 +15,7 @@ My favorite Restaurants are:
 
 https://help.github.com/en
 
-![Hier könnte ihr Logo stehen] (https://github.com/doerrenbaecher/authoring/blob/main/images/logo.png "Hier könnte ihr Logo stehen"
+![Hier könnte ihr Logo stehen](https://github.com/doerrenbaecher/authoring/blob/main/images/logo.png "Hier könnte ihr Logo stehen"
 
 😁
 
