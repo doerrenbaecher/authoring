@@ -8,16 +8,16 @@ My favorite Restaurants are:
 - Il Tartuffo
 # Github Flavoured Markdown
 ## Checkboxes
-- [ ] External link"
-- [ ] Internal Link
-- [ ] Images
-- [ ] Emojis
-- [ ] Tables
+- [x] External link"
+- [x] Internal Link
+- [x] Images
+- [x] Emojis
+- [x] Tables
 
 ### Github Documentation
 [Github Documentation](https://help.github.com/en)
 
-#### Imagaes
+#### Images
 ![Logo](https://github.com/doerrenbaecher/authoring/blob/main/images/logo.png)
 
 ##### Emoji
