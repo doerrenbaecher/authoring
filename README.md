@@ -18,7 +18,7 @@ My favorite Restaurants are:
 [Github Documentation](https://help.github.com/en)
 
 ## Internal Link <a name="internal"></a>
-[Internal Link](https://github.com/mysizar/authoring/tree/main/images)
+[Images](https://github.com/doerrenbaecher/authoring/tree/main/images)
 
 ## Images <a name="images"></a>
 ![Logo](https://github.com/doerrenbaecher/authoring/blob/main/images/logo.png)
