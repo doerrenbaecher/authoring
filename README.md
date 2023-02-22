@@ -7,24 +7,32 @@ My favorite Restaurants are:
 - AN Sushi Asia Kitchen
 - Il Tartuffo
 # Github Flavoured Markdown <a name="github"></a>
-## Checkboxes <a name="checkboxes"></a>
+# Checkboxes <a name="checkboxes"></a>
 - [x] External link"
 - [x] Internal Link
 - [x] Images
 - [x] Emojis
 - [x] Tables
 
-### Github Documentation <a name="documentation"></a>
+# Github Documentation <a name="documentation"></a>
 [Github Documentation](https://help.github.com/en)
 
-#### Images <a name="images"></a>
+# Images <a name="images"></a>
 ![Logo](https://github.com/doerrenbaecher/authoring/blob/main/images/logo.png)
 
-##### Emoji 
+# Emoji <a name="emoji"></a>
 😁
 
-###### Tables
+# Tables <a name="tables"></a>
 | Names | Class |
 | ----- | ----- |
 | Row 1 | Row 1 |
 | Row 2 | Row 2 |
+
+[Publishing](#publishing)
+[Github Flavoured Markdown](#github)
+[Checkboxes](#checkboxes)
+[Documentation](#documentation)
+[Images](#images)
+[Emoji](#emoji)
+[Tables](#tables)
