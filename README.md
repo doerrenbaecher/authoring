@@ -9,13 +9,16 @@ My favorite Restaurants are:
 ## Github Flavoured Markdown <a name="github"></a>
 ## Checkboxes <a name="checkboxes"></a>
 - [x] [Documentation](#documentation)
-- [x] Internal Link
+- [x] [Internal Link](#internal)
 - [x] [Images](#images)
 - [x] [Emojis](#emoji)
 - [x] [Tables](#tables)
 
 ## Github Documentation <a name="documentation"></a>
 [Github Documentation](https://help.github.com/en)
+
+## Internal Link <a name="internal></a>
+[Internal Link](https://github.com/mysizar/authoring/tree/main/images)
 
 ## Images <a name="images"></a>
 ![Logo](https://github.com/doerrenbaecher/authoring/blob/main/images/logo.png)
