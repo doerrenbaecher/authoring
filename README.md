@@ -6,3 +6,11 @@ My favorite Restaurants are:
 - Bella Tandoori
 - AN Sushi Asia Kitchen
 - Il Tartuffo
+# Github Flavoured Markdown
+- [ ] External link
+- [ ] Internal Link
+- [ ] Images
+- [ ] Emojis
+- [ ] Tables
+
+https://help.github.com/en
