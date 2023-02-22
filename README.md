@@ -1,4 +1,4 @@
-# publishing <a name="publishing"></a>
+# Publishing <a name="publishing"></a>
 My name is Manuel and i'm 36 years old.
 My favorite colors are black and white.
 My favorite language is german because it is my native language.
