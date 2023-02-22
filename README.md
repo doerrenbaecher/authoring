@@ -17,7 +17,7 @@ My favorite Restaurants are:
 ## Github Documentation <a name="documentation"></a>
 [Github Documentation](https://help.github.com/en)
 
-## Internal Link <a name="internal></a>
+## Internal Link <a name="internal"></a>
 [Internal Link](https://github.com/mysizar/authoring/tree/main/images)
 
 ## Images <a name="images"></a>
