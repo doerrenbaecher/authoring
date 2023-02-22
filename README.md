@@ -7,18 +7,23 @@ My favorite Restaurants are:
 - AN Sushi Asia Kitchen
 - Il Tartuffo
 # Github Flavoured Markdown
-## - [ ] External link"
-## - [ ] Internal Link
-## - [ ] Images
-## - [ ] Emojis
-## - [ ] Tables
+## Checkboxes
+- [ ] External link"
+- [ ] Internal Link
+- [ ] Images
+- [ ] Emojis
+- [ ] Tables
 
+### Github Documentation
 [Github Documentation](https://help.github.com/en)
 
+#### Imagaes
 ![Logo](https://github.com/doerrenbaecher/authoring/blob/main/images/logo.png)
 
+##### Emoji
 😁
 
+###### Tables
 | Names | Class |
 | ----- | ----- |
 | Row 1 | Row 1 |
