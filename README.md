@@ -9,8 +9,8 @@ My favorite Restaurants are:
 # Github Flavoured Markdown
 ## - [ ] External link"
 ## - [ ] Internal Link
-##- [ ] Images
-##- [ ] Emojis
+## - [ ] Images
+## - [ ] Emojis
 ## - [ ] Tables
 
 [Github Documentation](https://help.github.com/en)
