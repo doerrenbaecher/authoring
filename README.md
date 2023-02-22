@@ -11,7 +11,7 @@ My favorite Restaurants are:
 - [x] External link
 - [x] Internal Link
 - [x] Images
-- [x] Emojis[Emoji](#emoji)
+- [x] [Emojis](#emoji)
 - [x] Tables
 
 ## Github Documentation <a name="documentation"></a>
